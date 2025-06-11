@@ -1,4 +1,4 @@
-![Texto Alternativo]([./assets/logo_.png](https://github.com/Gnatiuc/I2A2-Agentes-Autonomos/blob/main/logo_projeto.png))
+![Logo do Projeto](./logo_projeto.png)
 
 # Agentes Fiscais Inteligentes - Versão 2.0
 
