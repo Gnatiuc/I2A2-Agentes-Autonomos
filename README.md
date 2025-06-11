@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Agentes Fiscais Inteligentes - Versão 2.0
 
 Sistema de análise e classificação de documentos fiscais usando inteligência artificial e processamento de linguagem natural, agora com funcionalidade de upload dinâmico de arquivos.
@@ -220,11 +219,9 @@ python test_agents.py
 
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-
 ---
 
 **Desenvolvido com ❤️ usando LangChain, Flask e tecnologias modernas de upload**
 
 =======
-# I2A2-Agentes-Autonomos
->>>>>>> ef8629913a11ee19bdbcef6b133238128e3acc3c
+
