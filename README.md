@@ -1,4 +1,4 @@
-![Logo do Projeto](./logo_projeto.png)
+
 
 # Agentes Fiscais Inteligentes - Versão 2.0
 
