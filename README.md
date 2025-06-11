@@ -1,3 +1,5 @@
+![Texto Alternativo](./assets/logo_.png)
+
 # Agentes Fiscais Inteligentes - Versão 2.0
 
 Sistema de análise e classificação de documentos fiscais usando inteligência artificial e processamento de linguagem natural, agora com funcionalidade de upload dinâmico de arquivos.
