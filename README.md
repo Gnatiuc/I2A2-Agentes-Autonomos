@@ -222,6 +222,3 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 ---
 
 **Desenvolvido com ❤️ usando LangChain, Flask e tecnologias modernas de upload**
-
-=======
-
