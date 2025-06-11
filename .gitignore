@@ -1,0 +1,19 @@
+# Ambiente Virtual
+venv/
+.venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Configurações do Editor
+.vscode/
+
+# Banco de dados e uploads
+*.db
+*.sqlite3
+uploads/
+data/
+
+# Arquivo de chaves (MUITO IMPORTANTE)
+.env
