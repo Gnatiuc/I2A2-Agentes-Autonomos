@@ -1,4 +1,4 @@
-![Logo do Projeto](./logo_projeto.png)
+<img src="./logo_projeto.png" alt="Logo do Projeto" width="300">
 
 # Agentes Fiscais Inteligentes - Versão 2.0
 
