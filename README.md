@@ -1,4 +1,4 @@
-<img src="./logo_projeto.png" alt="Logo do Projeto" width="300">
+<img src="./logo_projeto.png" alt="Logo do Projeto" width="600">
 
 # Agentes Fiscais Inteligentes - Versão 2.0
 
